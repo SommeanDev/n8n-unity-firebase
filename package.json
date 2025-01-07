@@ -66,6 +66,9 @@
     "typescript": "*",
     "zx": "^8.1.4"
   },
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  },
   "pnpm": {
     "onlyBuiltDependencies": [
       "sqlite3"
