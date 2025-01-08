@@ -67,7 +67,8 @@
     "zx": "^8.1.4"
   },
   "dependencies": {
-    "jsonwebtoken": "^9.0.0"
+    "jsonwebtoken": "^9.0.0",
+    "googleapis": "^123.0.0"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
