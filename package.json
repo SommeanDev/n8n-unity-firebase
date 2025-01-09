@@ -67,6 +67,7 @@
     "zx": "^8.1.4"
   },
   "dependencies": {
+    "firebase-admin": "^13.0.2",
     "googleapis": "^144.0.0",
     "jsonwebtoken": "^9.0.0"
   },
